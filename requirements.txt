@@ -3,4 +3,6 @@ numpy
 seaborn
 catboost
 xgboost
+scikit-learn
+dill
 -e .
