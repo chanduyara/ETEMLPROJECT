@@ -131,7 +131,7 @@ celerybeat.pid
 
 # Environments
 
-.notebook/
+
 .env
 .venv
 env/
